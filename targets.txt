@@ -1,0 +1,33 @@
+project goal
+what is new in project
+results and comparision, evaluation of results
+12 research papers, understand and learn points
+no. of models, performances and model design
+no. of datasets, information and rmse values
+
+
+Datasets :
+---------------------------
+1. NTIRE 2020 Spectral Reconstruction (primary)
+2. CAVE Dataset For Spectral Reconstrcution (secondary)
+
+
+
+Models :
+---------------------------
+acc and loss curve for training (3 graphs for 3 models).
+rmse value for train, validation, test sets (for each model on each dataset)
+best model then comapre with 4 other best models.
+
+3 models archietecture diagrams
+  loss functions
+  training details
+  hyper parameter optimization details (technique name)
+
+
+
+
+
+
+
+
